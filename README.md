@@ -1,5 +1,5 @@
 # pygame-mizzzout
-Simple skillgame is written in python using pygame with sound and AI generated graphics..
+Simple skillgame written in python using pygame with sound and AI generated graphics..
 
 ![2025-05-11 10_42_35-Greenshot](https://github.com/user-attachments/assets/db8b362d-a25f-466f-8bf9-e145c84f292a)
 
