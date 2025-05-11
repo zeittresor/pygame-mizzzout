@@ -6,4 +6,11 @@ This game is a skill-based game that can be controlled using the WASD keys, the 
 Controls:
 WSAD to control your position (or use the arrow keys or a joystick). Use Space to shoot. P for pause. ESC to exit.
 
-Source: https://github.com/zeittresor/pygame-mizzzout
+Graphics:
+Created using a localy hosted Stable Diffusion installation with Forge WebUI using the Layer Diffusion Extension.
+
+Music:
+Created using Ableton/Novation Pad/Korg MK-1 Keyboard.. also avail. in my soundcloud account at https://soundcloud.com/deckenfluter
+
+Source:
+https://github.com/zeittresor/pygame-mizzzout
