@@ -3,6 +3,7 @@ Simple skillgame is written in python using pygame with sound and AI generated g
 
 ![2025-05-11 10_42_35-Greenshot](https://github.com/user-attachments/assets/db8b362d-a25f-466f-8bf9-e145c84f292a)
 
+![2025-05-11 10_45_00-Greenshot](https://github.com/user-attachments/assets/ed0c6904-888b-4119-a59a-2151dbdfcb31)
 
 
 This game is a skill-based game that can be controlled using the WASD keys, the arrow keys, or a joystick. The goal of the game is to survive as long as possible. Enemies fall from the top of the screen to the bottom at varying speeds and try to dodge each other. You are also able to shoot in the game; however, each shot deducts three seconds from your total survival time. If you shoot too often and your timer falls below zero, the game ends. On the other hand, if you use your shots sparingly, you might achieve a high score!
