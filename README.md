@@ -20,5 +20,8 @@ Created using a localy hosted Stable Diffusion installation with Forge WebUI usi
 Music:
 Created using Ableton/Novation Pad/Korg MK-1 Keyboard.. also avail. in my soundcloud account at https://soundcloud.com/deckenfluter
 
+Cheats:
+There are some cheats in the code, if you like you can start the for example with the commandline parameter -cheat-FUNDS to have 999 lives .. to find out how far you can go until your CPU give up xD but note you might not record a highscore using it.
+
 Source:
 https://github.com/zeittresor/pygame-mizzzout
